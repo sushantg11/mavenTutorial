@@ -9,5 +9,6 @@ public class testClass {
 	
 	public static void testMethod() {
 		//This is a test method
+		System.out.println("Test");
 	}
 }
